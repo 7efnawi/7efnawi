@@ -131,7 +131,7 @@ https://github.com/7efnawi/codealpha_tasks
 ---
 
 ## 🤝 Let’s Connect
-- [<img height="42" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" />](https://img.icons8.com/?size=100&id=13930&format=png&color=000000) http://www.linkedin.com/in/7efnawi  
+- <a href="https://www.linkedin.com/in/7efnawi" target="_blank" rel="noopener"> <img height="42" src="https://cdn.simpleicons.org/linkedin/00E676" alt="LinkedIn" /> </a>  
 - 🌐 Portfolio: https://portfolio-kohl-nine-61.vercel.app/  
 
 ---
